@@ -6,7 +6,7 @@ Physics of the model is very simple. All objects are massless points. Aerodynami
 
 The program performs modeling displaying all objects as animated markers in Matplotlib axes.
 
-![Application screen showing an aircraft (blue triangle), two missile systems (green rectangles) and the aircraft's target (red circle)](docs/source/images/evader.png)
+![Application screen showing an aircraft (blue triangle), two missile systems (green rectangles) and the aircraft's target (red circle)](doc/source/images/evader.png)
 
 The goal of this program is to demonstrate application of optimization procedures, optimal control and Python programming.
 
@@ -31,7 +31,7 @@ Then you may run a couple of examples:
 
 # Keyboard Shortcuts
 
-Press <Esc> to interrupt the modeling, <Space> to pause/unpause. Also, usual Matplotlib shortcuts should work (for example, hit <Q> to close the figure window).
+Press \<Esc\> to interrupt the modeling, \<Space\> to pause/unpause. Also, usual Matplotlib shortcuts should work (for example, hit \<Q\> to close the figure window).
 
 # License
 
