@@ -19,7 +19,7 @@ The goal of this program is to demonstrate application of optimization procedure
 
 The versions listed are just the tested ones. Some older versions will surely work.
 
-# How To Run
+# How to Run
 
 Put the `evader` directory somewhere in the Python module path.
 
